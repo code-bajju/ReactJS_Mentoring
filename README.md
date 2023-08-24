@@ -1,4 +1,4 @@
-# Roadmap and Syllabus for frontend
+# [Roadmap for Frontend Development](https://www.notion.so/Roadmap-Syllabus-for-Frontend-287980d1b40f451b9dc1b5758a315330?pvs=4)
 
 ### Navigate a 26-week journey as GDSC mentors, guiding juniors toward Front-End Development mastery. From foundational HTML/CSS to advanced React.js concepts with practice problems, this roadmap nurtures growth within the [GDSC](http://gdscmmdu.tech) community.
 
